@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Servent3bgm",
     "password": "",
     "type": "online"
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "AE Bhai saman Mat Churana ",
+        "Subscribe to 3Bakchod Gamer!",
+        " Discord join kar lo Bhai !" ,
+        " New player's Sabse pehle apna base banao"
       ]
     },
     "chat-log": true,
@@ -60,7 +61,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -70,10 +71,10 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.gg/hc4PRTqAX",
     "events": {
       "connect": true,
